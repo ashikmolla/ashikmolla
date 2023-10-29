@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Ashik M
 #### I am web Programer
-![I am web Programer](https://scontent.fdac33-1.fna.fbcdn.net/v/t39.30808-6/306529177_796309221695235_8019847801311805037_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFO3SlHDvAWreYNxxzSHLqYMLczq4N1MKEwtzOrg3Uwoe47QtLyUe5Q4ArHZwQfXEPqDewTyGaCn9CBcZzfYeaF&_nc_ohc=1rxKYq5GlNUAX-NZGpH&_nc_ht=scontent.fdac33-1.fna&oh=00_AfAKEnDinJ5YDBdxjHsNQnu5CJDrItg5zgKl71wmLaMHHA&oe=654463E3)
 
 I made this project just for Learn, 
 I’m a  Web developer who is passionate about making error-free websites with client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Most of the time I work with  but some technologies I enjoy working with include  JavaScript, ReactJS as well as 
