@@ -43,9 +43,18 @@ I’m a  Web developer who is passionate about making error-free websites with c
 </p>
 <br>
 
+
+
+## :computer: Technologies that I know
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Activity:</h3>
-
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
+<p align="center">
+<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/css.png"/>
+<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/react.png"/>
+<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/node.png"/>
+<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/express.png"/>
+</p><br/>
