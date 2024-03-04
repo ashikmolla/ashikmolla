@@ -15,7 +15,7 @@ I’m a  Web developer who is passionate about making error-free websites with c
 
 # About me 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/ashikmolla/ashikmolla/blob/main/images/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif.crdownload">
 <br>
 - 🔭I’m currently **any company** not working 
 
@@ -33,11 +33,11 @@ I’m a  Web developer who is passionate about making error-free websites with c
 - <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashik-molla-228ab5289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-  <a href="https://twitter.com/AshikMolla/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100049388054800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
-<a href="https://www.instagram.com/alliakbooribneashik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashik-molla-228ab5289/" target="blank"><img align="center" src="https://github.com/ashikmolla/ashikmolla/blob/main/images/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+  <a href="https://twitter.com/AshikMolla/" target="blank"><img align="center" src="https://github.com/ashikmolla/ashikmolla/blob/main/images/Social/twitter.svg" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100049388054800" target="blank"><img align="center" src="https://github.com/ashikmolla/ashikmolla/blob/main/images/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
+<a href="https://www.instagram.com/alliakbooribneashik/" target="blank"><img align="center" src="https://github.com/ashikmolla/ashikmolla/blob/main/images/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://github.com/ashikmolla/ashikmolla/blob/main/images/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
 
 
 </p>
@@ -49,12 +49,12 @@ I’m a  Web developer who is passionate about making error-free websites with c
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
-<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/express.png"/>
+<img src="https://github.com/ashikmolla/ashikmolla/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/ashikmolla/ashikmolla/blob/main/images/icons/css.png"/>
+<img src="https://github.com/ashikmolla/ashikmolla/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/ashikmolla/ashikmolla/blob/main/images/icons/react.png"/>
+<img src="https://github.com/ashikmolla/ashikmolla/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/ashikmolla/ashikmolla/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/ashikmolla/ashikmolla/blob/main/images/icons/node.png"/>
+<img src="https://github.com/ashikmolla/ashikmolla/blob/main/images/icons/express.png"/>
 </p><br/>
