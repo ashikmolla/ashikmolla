@@ -37,7 +37,7 @@ I’m a  Web developer who is passionate about making error-free websites with c
   <a href="https://twitter.com/AshikMolla/" target="blank"><img align="center" src="https://github.com/ashikmolla/ashikmolla/blob/main/images/Social/twitter.svg" alt="supun___lk" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100049388054800" target="blank"><img align="center" src="https://github.com/ashikmolla/ashikmolla/blob/main/images/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alliakbooribneashik/" target="blank"><img align="center" src="https://github.com/ashikmolla/ashikmolla/blob/main/images/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://github.com/ashikmolla/ashikmolla/blob/main/images/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://github.com/ashikmolla/ashikmolla/blob/main/images/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
 
 
 </p>
