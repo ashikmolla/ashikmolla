@@ -25,7 +25,7 @@ I’m a  Web developer who is passionate about making error-free websites with c
 
 - 💬 Ask me about **Javascript, React, Mongodb, Expressjs  and NodeJS**
 
-- 📫 How to reach me **ashikmolla1ci@gmail.com**
+- 📫 How to reach me Email:-**ashik018361@gmail.com**, Whatsap:-01619653644 and **https://linkedin.com/in/ashik-molla-**
 
   <!-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)-->
 
